@@ -130,3 +130,15 @@ Live_AI_Dashboard_ETL/
 ## 👤 Author
 
 Built by **M.Jaba priyan** as a personal Data Analyst portfolio project.
+
+---
+
+## 📸 Dashboard Preview
+
+### Overview
+![Dashboard Overview](image/dashboard_overview.png)
+
+### Tool Ranking
+![Tool Ranking](image/dashboard_ranking.png)
+
+---
